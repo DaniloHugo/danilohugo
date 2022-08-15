@@ -22,6 +22,6 @@
   <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <div> 
   
-<div align="center">
-  <img align="right" alt="Danilo" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/961783529983852655/1008454100721094720/WhatsApp_Image_2022-08-14_at_16.15.35.jpeg">
+<div align="left">
+  <img align="left" alt="Danilo" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/961783529983852655/1008454100721094720/WhatsApp_Image_2022-08-14_at_16.15.35.jpeg">
 <div>
