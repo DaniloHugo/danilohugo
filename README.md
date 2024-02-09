@@ -1,4 +1,4 @@
-## Oie eu sou Danilo Hugo, iniciante em desenvolvimento Front-end. 
+## Oie! Sou o Danilo!
 - 🔭 Hoje eu estou trabalhando como Analista de Suporte.
 - 🌱 Estudando HTML e CSS.  
 - 🤔 Iniciante na area de desenvolvimento. 
