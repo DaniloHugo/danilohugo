@@ -1,9 +1,9 @@
 ## Oie! Sou o Danilo!
-- 🔭 Hoje eu estou trabalhando como Analista de Suporte.
-- 🌱 Estudando HTML e CSS.  
-- 🤔 Iniciante na area de desenvolvimento. 
+- 🔭 Hoje eu estou trabalhando como Lider Tecnico.
+- 🌱 Estudando Cloud ☁️  
+- 🤔 Iniciante na area de Cloud
 - 📫 Fale comigo atraves do e-mail: danilohugo5@hotmail.com 
--  😎 21 Anos.
+-  😎 23 Anos.
 
 
 <div align="center">
